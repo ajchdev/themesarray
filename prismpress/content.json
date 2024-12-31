@@ -4,20 +4,20 @@
         "local_import_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-1/content.xml",
         "local_import_widget_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-1/widget.wie",
         "local_import_customizer_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-1/customizer.dat",
-        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-1/screenshot.jpg"
+        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-1/screenshot.jpeg"
     },
     {
         "import_file_name": "Travel",
         "local_import_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-2/content.xml",
         "local_import_widget_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-2/widget.wie",
         "local_import_customizer_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-2/customizer.dat",
-        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-2/screenshot.jpg"
+        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-2/screenshot.jpeg"
     },
     {
         "import_file_name": "Travel",
         "local_import_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-3/content.xml",
         "local_import_widget_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-3/widget.wie",
-        "local_import_customizer_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-4/customizer.dat",
-        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-5/screenshot.jpg"
+        "local_import_customizer_file": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-3/customizer.dat",
+        "import_preview_image_url": "https://raw.githubusercontent.com/ajchdev/themesarray/refs/heads/main/prismpress/demo-3/screenshot.jpeg"
     }
 ]
